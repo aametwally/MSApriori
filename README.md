@@ -1,9 +1,5 @@
 # Implementation of MSApriori Algorithm (Excluding rule generation) 
 
-## Group Memebers:
-  1.	Ahmed Metwally (UIN: 678120810)  
-  2.	Vishal Bansal (UIN: 669773290)  
-
 ## Description:
 	
 The Msapriori algorithm works in two steps:
